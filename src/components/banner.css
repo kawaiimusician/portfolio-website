@@ -5,7 +5,7 @@ body {
 .banner {
   background: url(../../public/images/sunrise.jpg) center center no-repeat;
   height: 70vh;
-  width: 100%;
+  width: auto;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -20,19 +20,19 @@ div.backgroundBox {
 
 #message1 {
   font-family: 'Lato', sans-serif;
-  width: 1000px;
+  width: 100vw;
   margin: 0 auto;
   text-align: center;
-  font-size: 90px;
+  font-size: 8vw;
   font-weight: bold;
   color: white;
 }
 
 #message2 {
   font-family: 'Lato', sans-serif;
-  width: 500px;
+  width: 100vw;
   margin: 0 auto;
   text-align: center;
-  font-size: 30px;
+  font-size: 3vw;
   color: white;
 }
