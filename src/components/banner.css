@@ -4,7 +4,7 @@ body {
 
 .banner {
   background: url(../../public/images/sunrise.jpg) center center no-repeat;
-  height: 70vh;
+  height: 80vh;
   width: auto;
   display: flex;
   align-items: center;
@@ -23,7 +23,7 @@ div.backgroundBox {
   width: 100vw;
   margin: 0 auto;
   text-align: center;
-  font-size: 8vw;
+  font-size: 5vw;
   font-weight: bold;
   color: white;
 }
